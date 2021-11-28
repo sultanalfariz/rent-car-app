@@ -1,4 +1,4 @@
-2 Apps and 2 Link different:
+Link to download and see source code app:
 
 app-for-user : https://github.com/sultanalfariz/rent-car-app-for-user
 app-for-owner : https://github.com/sultanalfariz/rent-car-app-for-owner
